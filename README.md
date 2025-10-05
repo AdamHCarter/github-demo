@@ -10,8 +10,8 @@ Walking through a tutorial to learn Git practices and tools.
 
 ## How To Contribute
 
-This is just a demonstration, no need to contribute.
+This is just a demonstration.
 
 ## Deployment
 
-Not intended to be deployed. You may preview the index.html file using a browser.
+Not intended to be deployed.
