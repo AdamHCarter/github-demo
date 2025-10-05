@@ -15,7 +15,3 @@ This is just a demonstration.
 ## Deployment
 
 Not intended to be deployed.
-
-### Just a demo
-
-Just a demo
