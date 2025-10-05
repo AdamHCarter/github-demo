@@ -10,7 +10,7 @@ Walking through a tutorial to learn Git practices and tools.
 
 ## How To Contribute
 
-This is just a demonstration.
+This is just a demonstration showing git workflow.
 
 ## Deployment
 
